@@ -4,6 +4,6 @@ va a empezar a darnos las siguientes pautas y los pasos a seguir van a ser estos
 
 2:
 
-3:Quiero analizar outliers
+3:Voy a analizar los datos
 
 4:Quiero crear los descriptivos
